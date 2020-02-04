@@ -1,4 +1,4 @@
-def sum_func(x, y):
-	return	(x+y)
+def sum_func(x, z):
+	return	(x+z)
 
 print(sum_func(2,3))
